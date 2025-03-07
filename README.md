@@ -1,6 +1,6 @@
 # Myonitoring
 
-![readme_myonitoring_logo](/uploads/2629107e5905d1ed6c1701d6397e2ab4/readme_myonitoring_logo.png)
+![Image](https://github.com/user-attachments/assets/31aa2438-4661-425a-86cc-96c592825d6f)
 
 ## 🐾 프로젝트 개요
 
@@ -63,8 +63,8 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 ### 1. 스플래쉬 화면 및 메인 화면
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-![스플래쉬화면](/uploads/903bb858fa9f936bb0020ae1d55034ee/스플래쉬화면.gif)
-![메인화면](/uploads/9a4d843c5e961c1fe3315c0fb753f238/메인화면.gif)
+![Image](https://github.com/user-attachments/assets/5ebad538-c267-4801-88c5-2b0717109740)
+![Image](https://github.com/user-attachments/assets/91330808-2080-4be1-943c-68976b84fb25)
 </div>
 <br>
 
@@ -74,8 +74,8 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 사용자 프로필 및 고양이 정보(이름, 나이, 체중 등) 등록 및 관리.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-![카카오로그인](/uploads/979f336b6a325e5d52e352d29c606778/카카오로그인.gif)
-![회원등록](/uploads/79978e230c269422ec08af92d892ec29/회원등록.gif)
+![Image](https://github.com/user-attachments/assets/db878894-8657-47be-8980-06206a97ad6f)
+![Image](https://github.com/user-attachments/assets/1f474e54-1bbf-4e33-920f-91f9743a5b29)
 </div>
 <br>
 
@@ -86,7 +86,7 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 사료량 부족 또는 기기 이상 발생 시 사용자에게 알림 전송.
 
 <div style="text-align: center;">
-![급식_예약](/uploads/71a345e8cdf29637f0dc1f0544d25c08/급식_예약.gif)
+![Image](https://github.com/user-attachments/assets/9f994ce5-9031-4514-9237-479a3e6dc39a)
 </div>
 <br>
 
@@ -95,7 +95,7 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 기기 정보 확인 가능.
 - 기기 별로 고양이 등록 가능.
   <div style="text-align: center;">
-![기기관리](/uploads/b5a864347e261be5508dd20397160b2c/기기관리.gif)
+![Image](https://github.com/user-attachments/assets/5e501cd9-de21-4797-97e5-ea35be0e198e)
 </div>
 <br>
 
@@ -105,7 +105,7 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - AI 기반 분석을 통해 안구 질환(충혈, 각막 손상 등) 이상 확률 표시.
 - 이상 징후 발견 시 상세 리포트 생성 및 푸쉬 알림 전송.
   <div style="text-align: center;">
-![안구페이지](/uploads/56a5f33c28b750799fdfc6e626c509d5/안구페이지.gif)
+![Image](https://github.com/user-attachments/assets/37864e0e-1b5e-4779-bd15-1508d890be83)
 </div>
 <br>
 
@@ -116,8 +116,8 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 일별, 주별 섭취량 기록을 상세히 확인 가능.
 - 섭취량이 지속적으로 증가하거나 감소하는 경우 섭취량 이상 리포트 생성 및 알림 전송.
   <div style="display: flex; justify-content: center; gap: 10px;">
-![섭취량_그래프](/uploads/35342d5e8793b4dc174474255efae978/섭취량_그래프.gif)
-![통계_페이지](/uploads/854cd50e816e1abef334353178246e4e/통계_페이지.gif)
+![Image](https://github.com/user-attachments/assets/be197d02-6e06-4413-9dc5-66f6cbded31e)
+![Image](https://github.com/user-attachments/assets/30910606-4e2d-4d59-9e84-1b78906614ac)
 </div>
 <br>
 
@@ -128,7 +128,7 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 어플 내 "묘니터링 캠 보러가기기" 버튼으로 간편하게 실시간 화면 제공.
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-![묘니터링캠](/uploads/d064c396e2843b1b0c4768b428c44432/묘니터링캠.gif)
+![Image](https://github.com/user-attachments/assets/4d606592-3cde-4057-9b85-b3017c35a1ad)
 </div>
 <br>
 
@@ -137,7 +137,7 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 사용자는 정기검진, 치료, 기타 카테고리별로 의료 일정(제목, 설명, 병원, 날짜)을 등록, 수정, 삭제 가능.
 - 기간 설정을 통해 특정 기간 내의 의료 일정 조회 가능.
   <div style="text-align: center;">
-![의료기록](/uploads/a461ef06be34386579c2cf30c05c6a6a/의료기록.gif)
+![Image](https://github.com/user-attachments/assets/ee4b764a-97f1-4bcc-9d52-2608bcfe995b)
 </div>
 
 <br>
@@ -232,17 +232,17 @@ frontend/myonitoring/
 ## 📃 설계 및 산출물
 
 ### 유저 플로우
-![user_flow](/uploads/50a48b3980dfd5caef3478cfa4c94241/user_flow.png)
+![Image](https://github.com/user-attachments/assets/0fb82385-5295-4a4f-9f3a-34b0c9307fd0)
 
 ### 와이어프레임
-![wireframe](/uploads/6a61a194e9aa59ac09ab94a52e8c2ce8/wireframe.png)
+![Image](https://github.com/user-attachments/assets/232e6d44-3acc-4ab9-b267-6dc437d9ac0e)
 
 
 ### 시스템 아키텍처
-![시스템_아키텍쳐](/uploads/1c025f5402ff7a3cfb4be6ab0d4ff32f/시스템_아키텍쳐.png)
+![Image](https://github.com/user-attachments/assets/8bff688d-eee1-4f0c-9a7c-101480e77b64)
 
 ### ERD
-![ERD](/uploads/40853508981d9e76647cd3c2753805df/ERD.png)
+![Image](https://github.com/user-attachments/assets/045938ae-a23e-49f2-8472-3ffc203bc314)
 
 ### 요구사항 명세서
 [요구사항명세서.pdf](/uploads/3f0d91ebd6ed9cda7b8bc3b4e4a0fc71/요구사항명세서.pdf)
