@@ -90,6 +90,7 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 사료량 부족 또는 기기 이상 발생 시 사용자에게 알림 전송.
 
 <div style="text-align: center;">
+  
 ![Image](https://github.com/user-attachments/assets/9f994ce5-9031-4514-9237-479a3e6dc39a)
 </div>
 <br>
