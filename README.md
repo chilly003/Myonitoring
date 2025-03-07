@@ -2,6 +2,9 @@
 
 ![Image](https://github.com/user-attachments/assets/31aa2438-4661-425a-86cc-96c592825d6f)
 
+## ✅소개 영상
+[!HOW TO USE?](https://www.youtube.com/watch?v=-5wg5mLUXwE)
+
 ## 🐾 프로젝트 개요
 
 - **프로젝트 이름**: Myonitoring(묘니터링)
