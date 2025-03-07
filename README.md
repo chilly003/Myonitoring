@@ -63,7 +63,9 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 ### 1. 스플래쉬 화면 및 메인 화면
 
 <div style="display: flex; justify-content: center; gap: 10px;">
+  
 ![Image](https://github.com/user-attachments/assets/5ebad538-c267-4801-88c5-2b0717109740)
+  
 ![Image](https://github.com/user-attachments/assets/91330808-2080-4be1-943c-68976b84fb25)
 </div>
 <br>
@@ -74,7 +76,9 @@ AI 얼굴 인식과 IoT 기술을 활용해 고양이의 안구 상태와 섭취
 - 사용자 프로필 및 고양이 정보(이름, 나이, 체중 등) 등록 및 관리.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
+  
 ![Image](https://github.com/user-attachments/assets/db878894-8657-47be-8980-06206a97ad6f)
+
 ![Image](https://github.com/user-attachments/assets/1f474e54-1bbf-4e33-920f-91f9743a5b29)
 </div>
 <br>
